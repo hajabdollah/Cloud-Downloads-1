@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4905",
+  "folder": "YouTube__watch_20260519225358_a09b54",
+  "base_name": "ASMR_in_the_World_s_Quietest_Room_ooFGb9LQ9GE_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hajabdollah/Cloud-Downloads-1/releases/tag/co-releases-v1-4905",
+  "files": [
+    {
+      "name": "ASMR_in_the_World_s_Quietest_Room_ooFGb9LQ9GE_480p.mp4",
+      "url": "https://github.com/hajabdollah/Cloud-Downloads-1/releases/download/co-releases-v1-4905/ASMR_in_the_World_s_Quietest_Room_ooFGb9LQ9GE_480p.mp4",
+      "api_url": "https://api.github.com/repos/hajabdollah/Cloud-Downloads-1/releases/assets/424588318",
+      "id": 424588318,
+      "size": 196196878,
+      "download_count": 0
+    }
+  ]
+}
