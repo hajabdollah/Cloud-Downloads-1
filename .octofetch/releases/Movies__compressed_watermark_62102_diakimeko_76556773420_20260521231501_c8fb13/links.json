@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4194",
+  "folder": "Movies__compressed_watermark_62102_diakimeko_76556773420_20260521231501_c8fb13",
+  "base_name": "Movies__compressed_watermark_62102_diakimeko_76556773420_20260521231501_c8fb13.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hajabdollah/Cloud-Downloads-1/releases/tag/co-releases-v1-4194",
+  "files": [
+    {
+      "name": "Movies__compressed_watermark_62102_diakimeko_76556773420_20260521231501_c8fb13.mp4",
+      "url": "https://github.com/hajabdollah/Cloud-Downloads-1/releases/download/co-releases-v1-4194/Movies__compressed_watermark_62102_diakimeko_76556773420_20260521231501_c8fb13.mp4",
+      "api_url": "https://api.github.com/repos/hajabdollah/Cloud-Downloads-1/releases/assets/426553584",
+      "id": 426553584,
+      "size": 23922973,
+      "download_count": 0
+    }
+  ]
+}
